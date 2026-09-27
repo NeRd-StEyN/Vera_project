@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & secrets
+.env
+.env.local
+venv/
+env/
+ENV/
+
+# Scratch & temporary test logs
+scratch/
+*.log
+.system_generated/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
+.DS_Store
